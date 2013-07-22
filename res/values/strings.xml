@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmbedDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="demo">This is a demo application for LayerCake, a version of Android that supports application embedding. 
+        There is an advertisement running in another application embedded above this explanatory text, 
+        and a Facebook Like button running in another application embedded below it.</string>
+    <string name="compat">You must have both the AdMobWrapper and FacebookWrapper applications installed, and log in to Facebook
+        via FacebookWrapper, before this demo will work properly.</string>
+
+</resources>
