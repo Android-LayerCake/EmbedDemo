@@ -7,4 +7,8 @@ This application embeds an advertisement that runs in AdMobWrapper, and a Facebo
 
 For best results, use FacebookWrapper to log into Facebook before trying out EmbedDemo.
 
-For more information, please visit: https://layercake.cs.washington.edu/
+
+For more information about LayerCake and corresponding license, please see:
+
+https://github.com/Android-LayerCake/layercake-project
+https://layercake.cs.washington.edu/
