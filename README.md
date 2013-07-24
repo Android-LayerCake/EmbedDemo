@@ -9,6 +9,5 @@ For best results, use FacebookWrapper to log into Facebook before trying out Emb
 
 
 For more information about LayerCake and corresponding license, please see:
-
-https://github.com/Android-LayerCake/layercake-project
-https://layercake.cs.washington.edu/
+* https://github.com/Android-LayerCake/layercake-project
+* https://layercake.cs.washington.edu/
